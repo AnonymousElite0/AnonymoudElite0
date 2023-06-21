@@ -1,5 +1,5 @@
 
-![https://github.com/AnonymousElite0](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/AnonymousElite0](https://github.com/AnonymousElite0/AnonymoudElite0/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 
 
 ## Tecnologías:
