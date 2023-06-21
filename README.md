@@ -23,3 +23,13 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## EDITORES DE CODIGO
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+[![Sublime Text 3](https://img.shields.io/badge/Sublime%20Text%203-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white&labelColor=101010)]()
+[![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white&labelColor=101010)]()
+
+
+
+
